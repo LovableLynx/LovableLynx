@@ -39,7 +39,7 @@ Right now I am also an M.Sc. Computer Science student and a graduate assistant a
 ### 📌 right now
 
 - 🎓 Finishing my M.Sc. thesis (explainable AI, phishing detection)
-- 🧪 Wrapped up HNG14 as a QA finalist — 8 stages, functional, API, accessibility and performance testing
+- 🧪 Wrapped up HNG14 as a QA finalist: 8 stages, functional, API, accessibility and performance testing
 - 👀 Open to QA roles, remote or international
 - 💬 Ask me about API testing, accessibility checks, or that one time Git Bash ruined my presentation
 
