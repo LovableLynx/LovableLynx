@@ -14,7 +14,7 @@ I am quiet by nature. I watch more than I talk. That works well in QA, because I
 
 I got into QA through the HNG14 internship. Before that I tried cybersecurity and it did not stick. QA did. I like finding the cracks no one else notices and figuring out why they are there.
 
-Right now I am also an M.Sc. Computer Science student and a graduate assistant at Lead City University, researching explainable AI for phishing detection.
+Right now I am also an M.Sc. Computer Science student and a graduate assistant at Lead City University. My thesis built an explainable AI framework for phishing URL detection.
 
 <br/>
 
@@ -38,14 +38,28 @@ Right now I am also an M.Sc. Computer Science student and a graduate assistant a
 
 ### 📌 right now
 
-- 🎓 Finishing my M.Sc. thesis (explainable AI, phishing detection)
-- 🧪 Wrapped up HNG14 as a QA finalist: 8 stages, functional, API, accessibility and performance testing
+- 🎓 In previva review on my M.Sc. thesis (explainable AI, phishing URL detection); viva to follow
+- 🧪 QA engineer on Vettika AI Recruiter (Nexprove) and OHealth (Maka Integrated Technology), bug tracking, API test suites, accessibility/API/functional testing
+- 🧬 Building a fairness-testing framework for AI-driven recruitment systems (bias detection, pytest and CI/CD) headed toward a journal paper
+- 🎯 Targeting a Jan 2027 funded PhD start in AI-assisted test generation / LLM-based QA automation
 - 👀 Open to QA roles, remote or international
-- 💬 Ask me about API testing, accessibility checks, or that one time Git Bash ruined my presentation
+- 💬 Ask me about API testing, accessibility checks, fairness testing, or that one time Git Bash ruined my presentation
 
 </td>
 </tr>
 </table>
+
+<br/>
+
+<div align="center">
+
+### 🏙️ 3D contribution skyline
+
+![3D contribution graph](profile-3d-contrib/profile-night-green.svg)
+
+![snake](https://raw.githubusercontent.com/LovableLynx/LovableLynx/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 <br/>
 
