@@ -8,7 +8,7 @@
 
 </div>
 
-<br/>
+<br>
 
 I am quiet by nature. I watch more than I talk. That works well in QA, because I notice things.
 
@@ -38,18 +38,18 @@ Right now I am also an M.Sc. Computer Science student and a graduate assistant a
 
 ### 📌 right now
 
-- 🎓 In previva review on my M.Sc. thesis (explainable AI, phishing URL detection); viva to follow
-- 🧪 QA engineer on Vettika AI Recruiter (Nexprove) and OHealth (Maka Integrated Technology), bug tracking, API test suites, accessibility/API/functional testing
+- 🎓 Graduating with my M.Sc. Computer Science in December 2026 (thesis: explainable AI framework for phishing URL detection)
+- 🧪 QA engineer on Vettika AI Recruiter (Nexprove) and a healthcare booking platform, bug tracking, API test suites, accessibility/API/functional testing
 - 🧬 Building a fairness-testing framework for AI-driven recruitment systems (bias detection, pytest and CI/CD) headed toward a journal paper
-- 🎯 Targeting a Jan 2027 funded PhD start in AI-assisted test generation / LLM-based QA automation
+- 🎯 Targeting a Fall 2027 funded PhD in AI software testing and software quality
 - 👀 Open to QA roles, remote or international
 - 💬 Ask me about API testing, accessibility checks, fairness testing, or that one time Git Bash ruined my presentation
-
+  
 </td>
 </tr>
 </table>
 
-<br/>
+</br>
 
 <div align="center">
 
