@@ -39,7 +39,7 @@ Right now I am also an M.Sc. Computer Science student and a graduate assistant a
 ### 📌 right now
 
 - 🎓 Graduating with my M.Sc. Computer Science in December 2026 (thesis: explainable AI framework for phishing URL detection)
-- 🧪 QA engineer on Vettika AI Recruiter (Nexprove) and a healthcare booking platform, bug tracking, API test suites, accessibility/API/functional testing
+- 🧪 QA engineer on Vettika AI Recruiter and a healthcare booking platform, bug tracking, API test suites, accessibility/API/functional testing
 - 🧬 Building a fairness-testing framework for AI-driven recruitment systems (bias detection, pytest and CI/CD) headed toward a journal paper
 - 🎯 Targeting a Fall 2027 funded PhD in AI software testing and software quality
 - 👀 Open to QA roles, remote or international
