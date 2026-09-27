@@ -60,7 +60,7 @@ I am an M.Sc. Computer Science student and graduate assistant at Lead City Unive
 |---|---|
 | [bias-recruitment-testing](https://github.com/LovableLynx/bias-recruitment-testing) | Treats fairness checks as automated test assertions in a CI pipeline for AI recruitment models |
 | [regression-diff-triage-agent](https://github.com/LovableLynx/regression-diff-triage-agent) | CLI tool that diagnoses why API regression tests broke, classifying failures by root cause: schema change, auth, endpoint down, rate limiting, flaky or logic bug |
-| [opportunity-radar](https://github.com/LovableLynx/opportunity-radar) | Matches African students to real scholarship and admission opportunities, and checks each listing for scam red flags using evidence |
+| [opportunity-radar](https://github.com/LovableLynx/opportunity-radar) | 🏆 4th place, She Code Africa × Apify BuildHER Hackathon. Matches African students to real scholarship and admission opportunities, and checks each listing for scam red flags using evidence |
 | [zedu-api-automation](https://github.com/LovableLynx/zedu-api-automation) | Automated backend API test suite in Python and Pytest |
 | [kaneloop-ai](https://github.com/LovableLynx/kaneloop-ai) | Describe a feature, generate it, and have a real browser verify it, with failures auto-healed |
 
